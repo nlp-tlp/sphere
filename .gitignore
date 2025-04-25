@@ -1,0 +1,6 @@
+data/
+clqa/pre_trained_clqa/
+neural_adj/
+logs/
+logs-debug/
+*__pycache__*

@@ -1,0 +1,5 @@
+torch
+numpy
+tensorboardX
+tqdm
+torchmetrics==0.11.0
